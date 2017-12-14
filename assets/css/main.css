@@ -1,0 +1,34 @@
+*body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  padding: 0;
+  margin: 0;
+}
+
+
+#splash{
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/splash.jpg") no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: 100% 100vh;
+}
+
+.background{
+  background-image: url("../img/fondo.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: 100% 100vh;
+}
+.center{
+  background-image: url("../img/inition.png");
+  height: 100vh;
+  width: 100%;
+  background-size: 100% 100vh;
+}
+.overflow{
+  background-image: url("../img/logo-white.png");
+  height: 5vh;
+
+}
